@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariel-Fam
 - 👀 I’m interested in ... Skateboarding, Coding, Graphics Design, Music, Art, Literature, Physics, Chemistry
-- 🌱 I’m currently learning ... Python Programming Language, then will learn Jave, the C and C++ for the machine manipulation modes.
+- 🌱 I’m currently learning ... Python Programming Language, then will learn Java Script, the C and C++ for the machine manipulation modes.
 - 💞️ I’m looking to collaborate on ... Anything help, profitable, negotiable etc.
 - 📫 How to reach me ... Instagram @arliep1111, URL: https://linktr.ee/arliep
 
